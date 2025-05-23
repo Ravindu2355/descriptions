@@ -1,0 +1,28 @@
+<div style="background:#1e1e1e;color:#f0f0f0;padding:20px;border-radius:10px;font-family:'Segoe UI',sans-serif;line-height:1.6;text-align:center;">
+  <h2 style="text-align:center;color:#ff4d4d;">Demon Slayer <br>(Kimetsu no Yaiba)<br><font color="yellow">සිංහල උපසිරසි සමග</font></h2>
+  
+  <p><strong>තන්ජිරෝ කමාදෝ</strong> යනු අගුරු විකුනා ජීවත්වන දුප්පත් පවුලක වැඩිමහල් පුතා.ඔහුගේ පියා රෝගයකින් මියගොස් ඇති අතර පවුලේ බර ඔහු කරට ගෙන ඇත. ඔහුගේ පවුල රක්ෂසයකු විසින් ඝාතනයට ලක්වෙයි. ඔහුගේ වැඩිමහල් සහෝදරිය <strong>නෙසුකෝ</strong> රාක්ෂයෙකු වෙයි, නමුත් ඇය තවත් මිනිසුන්ට හානි නොකරයි.</p>
+  
+  <p>තන්ජිරෝ, ඇයගේ මිනිස්භාවය ආපසු ලබාදෙන්නට සහ වෙනත් අයවද සුරැකීමට <strong>Demon Slayer Corps(යක්ෂයින් නසන්නන්ගෙන් යුත් සංවිධානයක්)</strong> එකට එකතු වේ. ඔහු බොහෝ අභියෝග වලට මුහුණ දෙන අතර, නව මිතුරන් හා විශාල යක්ෂයින්ට එරෙහිව සටන් කරයි.</p>
+  
+  <h3 style="color:#61dafb;">ප්‍රධාන චරිත</h3>
+  <ul style="text-align:left;padding-left:20px;">
+    <li><strong>තන්ජිරෝ කමාදෝ</strong> – ප්‍රධාන චරිතය</li>
+    <li><strong>නෙසුකෝ කමාදෝ</strong> – ඔහුගේ රාක්ෂයෙකුවන සහෝදරිය</li>
+    <li><strong>සෙනිට්සු</strong> – බයගුල්ලෙක් නමුත් ශක්තිමත් හා වේගවත් සටන් කලාවක් ප්‍රගුන කර ඇත(කහ ලෝගුව)</li>
+    <li><strong>ඉනොස්කේ</strong> – වනාන්තරයේ හැදීවැඩුනු දැඩි සටන්කාමී අයෙකි(ඌරු වෙස් මුහුණ)</li>
+    <li><strong>මුසාන් කිබුසුජී</strong> – මුල්ම සහ බලවත්ම රක්ෂසයා</li>
+  </ul>
+  
+  <h3 style="color:#61dafb;">මාලා වශයෙන්</h3>
+  <ol style="text-align:left;padding-left:20px;">
+    <li><strong>Season 1:</strong> පවුලේ මරණය සහ Demon Slayer Corps එකට එකතු වීම (Episodes 26)</li>
+    <li><strong>Season 2 part 1- Mugen train Arc:</strong> ගිණි දුම්රිය සටන (Episodes 07)</li>
+    <li><strong>Season 2 part 2- Entertainment District:</strong> විනෝදාස්වාද කලාපය (Episodes 11)</li>
+    <li><strong>Season 3 - Swordsmith Village:</strong> කඩු සාදන්නන්ගේ ගම්මානය (Episodes 11)</li>
+    <li><strong>Season 4 - Hashira Training Arc:</strong> හෂිරා පුහුනුව (Episodes 08)</li>
+    <li><strong>Season 5 - Infinity Castle Arc:</strong> අනන්ත බලකොටුව (Releasing in 2025 july-september)</li>
+  </ol>
+
+  <p style="margin-top:15px;">මෙම කතා මාලාව දැන් පහලින් නැරබීමට පුළුවන්....</p>
+</div>
