@@ -1,0 +1,36 @@
+<div style="background:#1e1e1e;color:#f0f0f0;padding:20px;border-radius:10px;font-family:'Segoe UI',sans-serif;line-height:1.6;text-align:center;">
+  <h2 style="text-align:center;color:#ff4d4d;">Asterix & Obelix <br>(ඇස්ටරික්ස් සහ ඕබලික්ස්)<br>සූර පප්පා<br><font color="yellow">සිංහල උපසිරසි සමග</font></h2>
+      <h3 style="color:#61dafb;">සිංහල උපසිරැසි එක්ක තිබෙන නිසා මේකේ නම් වෙනස් </h3>
+<p>ඔව් ඔව් මේ ඔයා හොදටම දන්න සූරපප්පා තමා එත් මේකෙ ඇත්තම නම එක්ක පොස්ට් කරන්න මගේ හිත කිව්ව නිසා මම මේ නමින් දැම්ම.මේ කතාව ගැන විස්තර කියවන්න ඕන නෑ.නම් ගැන පහලින් තියේ,  </p>
+
+    <h3 style="color:#61dafb;">පුන්චි අමතර විස්තරයක්</h3>
+  <p><strong>ඇස්ටරික්ස්</strong> සහ <strong>ඕබලික්ස්</strong> යනු ක්‍රි.පූ. 50 වසර පමණ වන ගාලියානු ගම්මානයක ජීවත්වන අපූරු  මිතුරන්ය. ඔවුන්ගේ ගම්මානය අධිරාජ්‍ය රෝමන් හමුදා විසින් වට වුනත්,ගෙටෆික්ස් විසින් සාදන විශේෂ අරිශ්ටය නිසා ඔවුන්ට අධික බලයක් හිමිවේ.මේ නිසා සීසර්ට ඔවුන්ව යටත් කරගැනීමට නොහැකි වේ</p>
+  
+  <p>මේකේ ෆිල්ම් වල වත් අපි සිරසෙන් බලපු ඒවගෙ වත් තිබුනෙ නෑ ජිම්පප්පා අරිශ්‍ටෙට හරියටම වැටුනෙ කොහොමද කියලා නමුත් 2025 නෙට්ෆ්ලික්ස් රිලීස් උන TV සීරීස් එකේ ඒඔක්කොම ගැනත් අරිශ්ටෙ පවර් එක එන විශේෂ බෙහෙත ගෑනත් කියනවා.......</p>
+  
+  <h3 style="color:#61dafb;">ප්‍රධාන චරිත</h3>
+  <ul style="text-align:left;padding-left:20px;">
+    <li><strong>ඇස්ටරික්ස්</strong> – මූලික මිනිසා, බුද්ධිමත් සහ තර්කශීලී</li>
+    <li><strong>ඕබලික්ස්</strong> – ශක්තිමත් සහ විහිළු සහගත මිතුරා</li>
+    <li><strong>ගෙටෆික්ස්</strong> – පෝෂක යුෂය සාදා දෙන ගාල් ඖෂධවේදියා</li>
+    <li><strong>වීටලෙරික්ස්</strong> – ගාල් ප්‍රධානි</li>
+    <li><strong>ජූලියස් සීසර්</strong> – රෝමන් අධිරාජයා</li>
+  </ul>
+  
+<h3 style="color:#61dafb;">චිත්‍රපට සහ රූපවාහිනී මාලා (Animation/Cartoons)</h3>
+<ol style="text-align:left;padding-left:20px;">
+  <li><strong>Asterix the Gaul</strong> (1967) – පළමු ඇනිමේටඩ් චිත්‍රපටය</li>
+  <li><strong>Asterix and Cleopatra</strong> (1968) – ක්ලියෝපැට්‍රා සමඟ චිත්‍රපටිය</li>
+  <li><strong>The Twelve Tasks of Asterix</strong> (1976) – විශේෂ කාර්ය 12ක් සමඟ ගමන</li>
+  <li><strong>Asterix Versus Caesar</strong> (1985) – සීසර්ට එරෙහිව</li>
+  <li><strong>Asterix in Britain</strong> (1986) – බ්‍රිතාන්‍යයේ සටන</li>
+  <li><strong>Asterix and the Big Fight</strong> (1989) – විශාල සටන</li>
+  <li><strong>Asterix Conquers America</strong> (1994) – ඇමරිකාව ජය ගැනීම</li>
+  <li><strong>Asterix and the Vikings</strong> (2006) – වයිකින්ග්වරුන්ට එරෙහිව</li>
+  <li><strong>Asterix: The Mansions of the Gods</strong> (2014) – දෙවියන්ගේ මාලිගාව</li>
+  <li><strong>Asterix: The Secret of the Magic Potion</strong> (2018) – මායා පෝෂණය රහස</li>
+  <li><strong>Asterix: The Big Fight (TV Series)</strong> – කාටූන් රූපවාහිනී මාලාවක් ලෙසද ලබාදී ඇත</li>
+</ol>
+
+  <p style="margin-top:15px;">මෙම විනෝදයෙන් පිරුණු සටන් සහ විහිළු සහගත චිත්‍රපට දැන් ඔබට සිංහල උපසිරසි සමඟ සහ හඩකැවූ(විකාශනයවූ) නැරඹිය හැක...</p>
+</div>
