@@ -1,0 +1,25 @@
+<div style="background:#1e1e1e;color:#f0f0f0;padding:20px;border-radius:10px;font-family:'Segoe UI',sans-serif;line-height:1.6;text-align:center;">
+  <h2 style="text-align:center;color:#ff4d4d;">Baahubali<br>(බාහුබලි චිත්‍රපට)<br><font color="yellow">සිංහල උපසිරසි සමග</font></h2>
+
+  <p><strong>බාහුබලි</strong> කියන්න දෙයක් නෑ මුලු ලෝකෙම හොල්ලපු ෆිල්ම් 2ක්.....ඕන කෙනෙක්ට ආයිත් බලන්න හිතෙන නිර්මාණ කියන්නෙ මේවට....</p>
+
+   <h3 style="color:#61dafb;">Original Audio & Sinhala Subs<h3> 
+   <p>YT එකෙන් දාල තියෙන නිසා පැකේජ් වලින් බලන්න පුලුවන්...ඒත් මමනම් කියන්නෙ 720p quality එකෙන්ම බලන්න කියලා.</p>
+
+  <h3 style="color:#61dafb;">ප්‍රධාන චරිත</h3>
+  <ul style="text-align:left;padding-left:20px;">
+    <li><strong>අමරේන්ද්‍ර බාහුබලි</strong> – මහේෂ්මති රජයා, සදාචාරය හා නීතිය සඳහා සටන් කරන වීරයෙකි</li>
+    <li><strong>මාහේන්ද්‍ර බාහුබලි (ශිව්ඩු)</strong> – ඔහුගේ පුතා, පියාගේ මරණයට පසු සත්‍යය හෙළිකර මහේෂ්මති පාලනයේ යෙදෙයි</li>
+    <li><strong>බල්ලාලදේව</strong> – අමරේන්ද්‍රගේ බ්‍රාත්‍රයා, බලයට කැමති හා වංචාකාරයා</li>
+    <li><strong>දේවසේනා</strong> – අමරේන්ද්‍රගේ බිරිඳ, දැඩි හා තීරණාත්මක චරිතයක්</li>
+    <li><strong>කට්ටප්ප</strong> – බාහුබලිගේ විශ්වාසවන්ත සේවකයා, කතාවේ විශාල ව්‍යථාවකට හේතුවන චරිතයකි</li>
+  </ul>
+
+  <h3 style="color:#61dafb;">චිත්‍රපට 2ක විස්තරය</h3>
+  <ol style="text-align:left;padding-left:20px;">
+    <li><strong>Baahubali: The Beginning (2015)</strong> – මාහේන්ද්‍ර බාහුබලිගේ උපත, ශක්තිය, සහ පවුලේ රහස් හෙළිවීම</li>
+    <li><strong>Baahubali: The Conclusion (2017)</strong> – අමරේන්ද්‍රගේ ජීවිතය, මරණය සහ බල්ලාලදේවට එරෙහි සටන</li>
+  </ol>
+
+  <p style="margin-top:15px;">මෙම චිත්‍රපට දෙක දැන් සිංහල උපසිරසි සහිතව පහලින් නරඹන්න...</p>
+</div>
